@@ -11,7 +11,7 @@
 
 
 
-### How to run project ?
+### Lancer le projet :
 
   
 ##### install dependencies :
